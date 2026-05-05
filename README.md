@@ -1,7 +1,7 @@
 # Java Fundamentals
 Project for tutoring in Java.
 
-## Modules
+## Table of Contents
 
 - [Data Types, Variables, and Constants](datatypes-variables-constants/README.md)
 - [Classes and Objects](classes-objects/README.md)
