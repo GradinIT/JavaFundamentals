@@ -14,6 +14,8 @@
         <module>datatypes-variables-constants</module>
         <module>classes-objects</module>
         <module>control-flow</module>
+        <module>loops-iteration</module>
+        <module>collections-arrays</module>
     </modules>
 
     <properties>
